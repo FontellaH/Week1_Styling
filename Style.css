@@ -1,0 +1,28 @@
+h1 {
+    color: blue;
+    background-color: black;
+    font-style: unset;
+    font-size: 3em;
+    height: 65px;
+   
+}
+span{
+    color: white;
+   
+}
+h2 {
+    color: white;
+    background-color: purple;
+    text-align: center ;
+    height: 35px;
+    
+}
+
+h3 {
+    color: black;
+    background-color: lightblue;
+    text-align: right;
+    text-decoration: underline;
+    height: 25px;
+    
+}
